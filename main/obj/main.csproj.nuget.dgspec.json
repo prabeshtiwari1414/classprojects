@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/media/parbesh/Local Disk/classproject/main/main.csproj": {}
+    "/media/parbesh/Local Disk/classproject/classprojects/main/main.csproj": {}
   },
   "projects": {
-    "/media/parbesh/Local Disk/classproject/main/main.csproj": {
+    "/media/parbesh/Local Disk/classproject/classprojects/main/main.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/media/parbesh/Local Disk/classproject/main/main.csproj",
+        "projectUniqueName": "/media/parbesh/Local Disk/classproject/classprojects/main/main.csproj",
         "projectName": "main",
-        "projectPath": "/media/parbesh/Local Disk/classproject/main/main.csproj",
+        "projectPath": "/media/parbesh/Local Disk/classproject/classprojects/main/main.csproj",
         "packagesPath": "/home/parbesh/.nuget/packages/",
-        "outputPath": "/media/parbesh/Local Disk/classproject/main/obj/",
+        "outputPath": "/media/parbesh/Local Disk/classproject/classprojects/main/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/parbesh/.nuget/NuGet/NuGet.Config"
