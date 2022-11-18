@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/media/parbesh/Local Disk/classproject/classprojects/main/main.csproj": {}
+    "/media/parbesh/Local Disk/classproject/classprojects-1/main/main.csproj": {}
   },
   "projects": {
-    "/media/parbesh/Local Disk/classproject/classprojects/main/main.csproj": {
+    "/media/parbesh/Local Disk/classproject/classprojects-1/main/main.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/media/parbesh/Local Disk/classproject/classprojects/main/main.csproj",
+        "projectUniqueName": "/media/parbesh/Local Disk/classproject/classprojects-1/main/main.csproj",
         "projectName": "main",
-        "projectPath": "/media/parbesh/Local Disk/classproject/classprojects/main/main.csproj",
+        "projectPath": "/media/parbesh/Local Disk/classproject/classprojects-1/main/main.csproj",
         "packagesPath": "/home/parbesh/.nuget/packages/",
-        "outputPath": "/media/parbesh/Local Disk/classproject/classprojects/main/obj/",
+        "outputPath": "/media/parbesh/Local Disk/classproject/classprojects-1/main/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/parbesh/.nuget/NuGet/NuGet.Config"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.403/RuntimeIdentifierGraph.json"
         }
       }
     }
