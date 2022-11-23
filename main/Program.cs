@@ -17,7 +17,7 @@ namespace Name
                     age=Convert.ToInt32(agechar);
                     Console.WriteLine("Enter Patient Address");
                     string address = Console.ReadLine();
-                    Console.WriteLine("Patient name is "+name+" who is "+age+" years old from "+address+". \n Do you want to save it? 'y' for yes & n'for no(y/n)");
+                    Console.WriteLine("Patient name is "+name+" who is "+age+" years old from "+address+". \n Do you want to save it? 'y' for yes & 'n'for no(y/n)");
                     string insert = Console.ReadLine();
                     switch(insert){
                         case "y": {
@@ -32,11 +32,11 @@ namespace Name
                     break;
                 }
                 case "u": {
-                    Console.WriteLine("You click for update");
+                    Console.WriteLine("You click for update \n Your data are \n type name for update");
                     break;
                 }
                 case "d": {
-                    Console.WriteLine("You click for delete");
+                    Console.WriteLine("You click for delete  \n Your data are \n type name for update");
                     break;
                 }
                 
