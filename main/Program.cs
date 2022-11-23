@@ -21,22 +21,22 @@ namespace Name
                     string gender = Console.ReadLine();
                     switch(gender){
                         case "m": {
-                            Console.WriteLine("Patient name is "+name+". He is "+age+" years old from "+address+". \n Do you want to save it? 'y' for yes & 'n'for no(y/n)");
+                            Console.WriteLine("Patient name is "+name+". He is "+age+" years old from "+address+".");
 
                             break;
                         }
                         case "f": {
-                            Console.WriteLine("Patient name is "+name+". She is "+age+" years old from "+address+". \n Do you want to save it? 'y' for yes & 'n'for no(y/n)");
+                            Console.WriteLine("Patient name is "+name+". She is "+age+" years old from "+address+".");
 
                             break;
                         }
                         case "o": {
-                            Console.WriteLine("Patient name is "+name+" who is "+age+" years old from "+address+". \n Do you want to save it? 'y' for yes & 'n'for no(y/n)");
+                            Console.WriteLine("Patient name is "+name+" who is "+age+" years old from "+address+".");
 
                             break;
                         }
                     }
-                    Console.WriteLine("Patient name is "+name+" who is "+age+" years old from "+address+". \n Do you want to save it? 'y' for yes & 'n'for no(y/n)");
+                    Console.WriteLine("Do you want to save it? 'y' for yes & 'n'for no(y/n)");
                     string insert = Console.ReadLine();
                     switch(insert){
                         case "y": {
